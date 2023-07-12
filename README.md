@@ -1,4 +1,4 @@
-Cal-Git-test
+Python
 ============
 
-Deval site for the Calendar
+Deval site for the Python scripts
